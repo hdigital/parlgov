@@ -6,8 +6,22 @@
     <description>Recent content in Posts on ParlGov website</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Static page in new repo</title>
+      <link>/2024/09/25/static-page-in-new-repo/</link>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/2024/09/25/static-page-in-new-repo/</guid>
+      <description>&lt;p&gt;We moved the sources of the ParlGov static page to a new GitHub repository at&#xA;&lt;a href=&#34;https://github.com/hdigital/parlgov&#34;&gt;github.com/hdigital/parlgov&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The page was previously a part of &lt;a href=&#34;https://github.com/hdigital/parlgov-snippets/&#34;&gt;ParlGov&#xA;snippets&lt;/a&gt;; see &lt;a href=&#34;/2021/09/15/static-parlgov-web-page/&#34;&gt;post&#xA;15/09/2021&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;We updated some of the information and added a post; see&#xA;&lt;a href=&#34;https://github.com/hdigital/parlgov/commits/main/&#34;&gt;commits&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;A &lt;a href=&#34;https://github.com/hdigital/parlgov/blob/main/README.md&#34;&gt;readme&lt;/a&gt; file&#xA;documents how we create the static page with&#xA;&lt;a href=&#34;https://pkgs.rstudio.com/blogdown/&#34;&gt;blogdown&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Posts until &lt;a href=&#34;/2024/08/12/parlgov-2024-released/&#34;&gt;12/08/2024&lt;/a&gt; are based on the&#xA;ParlGov legacy page database. We added later posts manually.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/parlgov-snippets.png&#34; alt=&#34;ParlGov snippets&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>New ParlGov page completed</title>
+      <link>/2024/08/24/new-parlgov-page-completed/</link>
+      <pubDate>Sat, 24 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/2024/08/24/new-parlgov-page-completed/</guid>
+      <description>&lt;p&gt;A new version of the ParlGov page is available at&#xA;&lt;a href=&#34;https://parlgov.fly.dev/&#34;&gt;parlgov.fly.dev&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The page is a minimal reimplementation of the ParlGov legacy page&#xA;— see &lt;a href=&#34;/2021/09/15/static-parlgov-web-page/&#34;&gt;post 15/09/2021&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;A &lt;a href=&#34;https://hdigital.github.io/parlgov-web/migration/&#34;&gt;migration guide&lt;/a&gt; provides&#xA;information about the scope of the project and the data that has been migrated.&lt;/p&gt;&#xA;&lt;p&gt;The open-source code and a working paper introducing the new version will be&#xA;published later this year.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/parlgov-web-versions.png&#34; alt=&#34;ParlGov versions&#34;&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Party Facts linking updated</title>
       <link>/2024/08/18/party-facts-linking-updated/</link>
