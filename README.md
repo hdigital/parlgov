@@ -2,7 +2,7 @@
 
 Static page of ParlGov project — [parlgov.org](https://parlgov.org/)
 
-ParlGov is a data infrastructure for political science and contains information for all EU and most OECD democracies (37 countries) from 1900 to 2023.
+ParlGov is a data infrastructure with information about EU and OECD democracies from 1900 to 2023.
 
 - [ParlGov Dataverse](https://dataverse.harvard.edu/dataverse/parlgov) — data archive
 - [parlgov.fly.dev](https://parlgov.fly.dev/) — dynamic page
