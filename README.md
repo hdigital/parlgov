@@ -20,6 +20,13 @@ R -e 'blogdown::build_site()'
 R -e 'blogdown::serve_site()'
 ```
 
+Add new post
+
+- copy `./content/post/2024-template.md`
+- update file name — date and slug
+- update header — add title and date, `draft: false`
+- _optional_ — update image from `.static/images` folder
+
 ## Installation · ⚙️
 
 Use [blogdown](https://github.com/rstudio/blogdown) with R.
