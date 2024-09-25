@@ -29,9 +29,9 @@ The main changes I made to the original hugo-lithium-theme are:
 
 1. Added support for [MathJax](https://bookdown.org/yihui/blogdown/output-format.html) (for rendering LaTeX math expressions) and highlight.js (for syntax highlighting).
 
-    - For both libraries, you can specify the CDN host (e.g., CloudFlare, BootCDN, ...).
+   - For both libraries, you can specify the CDN host (e.g., CloudFlare, BootCDN, ...).
 
-    - For highlight.js, you can specify additional languages (e.g., `r`, `yaml`, `tex`, ...).
+   - For highlight.js, you can specify additional languages (e.g., `r`, `yaml`, `tex`, ...).
 
 1. Added Google web fonts (embedded in the theme so that visitors from countries where Google is banned can still see the typefaces).
 

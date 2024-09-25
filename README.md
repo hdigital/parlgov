@@ -28,6 +28,12 @@ Use [blogdown](https://github.com/rstudio/blogdown) with R.
 R -e 'install.packages("blogdown")'
 ```
 
+Format files with [prettier](https://prettier.io/docs/en/cli).
+
+```sh
+prettier -w ./**/*.{md,yaml}
+```
+
 ## License · ⚖️
 
 Data from [ParlGov

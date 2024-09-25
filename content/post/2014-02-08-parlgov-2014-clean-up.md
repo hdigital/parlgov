@@ -9,7 +9,7 @@ Currently, we are completing a new version of the webpage and are cleaning up th
 
 We trim down on our earlier aspirations and are removing all countries that are neither EU nor OECD members. This affects data in the experimental version only. There will also be some changes to the linking of political parties.
 
-We will provide news entries once we have completed  the respective clean-ups. 
+We will provide news entries once we have completed the respective clean-ups.
 
 Again, none of this should effect information in the development version of ParlGov but only additional data in the experimental version (guest login required).
 

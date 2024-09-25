@@ -2,7 +2,7 @@ baseurl: /
 languageCode: en-us
 title: ParlGov website
 theme: hugo-lithium
-googleAnalytics: ''
+googleAnalytics: ""
 ignoreFiles:
   - \.Rmd$
   - \.Rmarkdown$
