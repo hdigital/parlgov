@@ -1,0 +1,7 @@
+{
+    "image": "mcr.microsoft.com/devcontainers/universal:2",
+    "features": {
+        "ghcr.io/rocker-org/devcontainer-features/r-rig:1": {}
+    },
+    "postCreateCommand": "R -e 'install.packages(\"blogdown\")'"
+}
