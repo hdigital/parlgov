@@ -1,13 +1,13 @@
 ---
-title: "New ParlGov page completed"
+title: "New ParlGov site completed"
 date: "2024-08-24"
 draft: false
 ---
 
-A new version of the ParlGov page is available at
+A new version of the ParlGov website is available at
 [parlgov.fly.dev](https://parlgov.fly.dev/).
 
-The page is a minimal reimplementation of the ParlGov legacy page
+The site is a minimal reimplementation of the ParlGov legacy site
 — see [post 15/09/2021](/2021/09/15/static-parlgov-web-page/).
 
 A [migration guide](https://hdigital.github.io/parlgov-web/migration/) provides

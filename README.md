@@ -1,18 +1,18 @@
 # ParlGov · 🗳️
 
-Static page of ParlGov project — [parlgov.org](https://parlgov.org/)
+Static site of ParlGov project — [parlgov.org](https://parlgov.org/)
 
 ParlGov is a data infrastructure with information about EU and OECD democracies from 1900 to 2023.
 
 - [ParlGov Dataverse](https://dataverse.harvard.edu/dataverse/parlgov) — data archive
-- [parlgov.fly.dev](https://parlgov.fly.dev/) — dynamic page
+- [parlgov.fly.dev](https://parlgov.fly.dev/) — dynamic website
 - [ParlGov snippets](https://github.com/hdigital/parlgov-snippets) — examples in R
 
 ## Usage · 💡
 
-See built page at [parlgov.org](https://parlgov.org)
+See built site at [parlgov.org](https://parlgov.org)
 
-Build and preview page with
+Build and preview site with
 
 ```sh
 R -e 'blogdown::build_site()'

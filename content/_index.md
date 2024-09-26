@@ -5,7 +5,7 @@ from 1900 to 2023.
 
 [ParlGov Dataverse](https://dataverse.harvard.edu/dataverse/parlgov)
 · 🗂️ —
-[Web page](https://parlgov.fly.dev)
+[Website](https://parlgov.fly.dev)
 · 🌐 —
 [R snippets](https://github.com/hdigital/parlgov-snippets)
 · 📊
