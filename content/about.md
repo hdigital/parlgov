@@ -5,7 +5,14 @@
 The Parliaments and Governments Database (ParlGov) is a data infrastructure for
 political science with information about all EU and most OECD democracies (37
 countries). The database combines about 1700 parties, 1000 elections (9800
-results), and 1600 cabinets (4000 parties) from 1900 to 2013.
+results), and 1600 cabinets (4000 parties) from 1900 to 2023.
+
+- [parlgov.org](https://parlgov.org/) · 🔗 — (this) static site
+  ([repo · 🛠️](https://github.com/hdigital/parlgov))
+- [ParlGov Dataverse](https://dataverse.harvard.edu/dataverse/parlgov) · 🗂️ — data archive
+- [parlgov.fly.dev](https://parlgov.fly.dev/) · 🌐 — dynamic site
+  ([repo · 🛠️](https://github.com/hdigital/parlgov-web))
+- [ParlGov snippets](https://github.com/hdigital/parlgov-snippets) · 📊 — examples in R (🛠️)
 
 ## References
 

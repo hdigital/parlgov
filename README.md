@@ -4,9 +4,10 @@ Static site of ParlGov project — [parlgov.org](https://parlgov.org/)
 
 ParlGov is a data infrastructure with information about EU and OECD democracies from 1900 to 2023.
 
-- [ParlGov Dataverse](https://dataverse.harvard.edu/dataverse/parlgov) — data archive
-- [parlgov.fly.dev](https://parlgov.fly.dev/) — dynamic website
-- [ParlGov snippets](https://github.com/hdigital/parlgov-snippets) — examples in R
+- [ParlGov Dataverse](https://dataverse.harvard.edu/dataverse/parlgov) · 🗂️ — data archive
+- [parlgov.fly.dev](https://parlgov.fly.dev/) · 🌐 — dynamic site
+  ([repo · 🛠️](https://github.com/hdigital/parlgov-web))
+- [ParlGov snippets](https://github.com/hdigital/parlgov-snippets) · 📊 — examples in R
 
 ## Usage · 💡
 
