@@ -6,8 +6,15 @@
     <description>Recent content in Posts on ParlGov website</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Snippet · potential coalitions</title>
+      <link>/2024/09/28/snippet-potential-coalitions/</link>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/2024/09/28/snippet-potential-coalitions/</guid>
+      <description>&lt;p&gt;We added a &lt;a href=&#34;https://github.com/hdigital/parlgov-snippets/tree/main/coalitions-potential&#34;&gt;ParlGov&#xA;snippet&lt;/a&gt;&#xA;that creates a dataset of potential coalitions and their parameters.&lt;/p&gt;&#xA;&lt;p&gt;This code has a long history and was written for work published in&#xA;Thürk/Hellström/Döring (2021). Initially, a Python script was developed in the&#xA;project to calculate the potential coalitions. Later, several revisions were&#xA;prepared with Tidyverse-R, and the last revision was in 2022. For the version&#xA;added to ParlGov Snippets, we used data from the &lt;a href=&#34;https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/2VZ5ZC&#34;&gt;2024&#xA;release&lt;/a&gt;&#xA;and made minor code updates.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Static site in new repo</title>
       <link>/2024/09/25/static-site-in-new-repo/</link>
