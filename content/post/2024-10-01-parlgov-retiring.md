@@ -8,10 +8,10 @@ Today, I (Holger) retire from ParlGov.
 It has been a project that I have worked on for almost two decades. I found the
 first mention of the project name in a file from 2006 and a first version of the
 Django app from 2007. All changes since mid-2009 are documented in news entries,
-among them two new major versions of the site in
+among them new major versions of the site in
 [2010](http://localhost:4321/2010/02/25/parlgov-10/02-online/) and
 [2014](/2014/12/21/new-webpage-at-www.parlgov.org/). This year, I completed a
-minimal new version of the [site](https://parlgov.fly.dev/)
+minimal new version of the [site](https://parlgov.fly.dev/).
 
 Last year, we updated the data until June 2023 with the previous team of data
 editors. Thanks again, [Alexandra and Meike](/data-info/).
@@ -48,7 +48,7 @@ With ParlGov, we have received wide recognition and many citations. Many
 scholars provided inspiration or pointed out errors. Thanks. We were less
 successful in gaining research grants for the project.
 
-Personally, I learned a lot through the project about political science, data,
+Personally, I learned a lot through the project about science, data,
 collaborations, programming, politics, and much more. Thanks!
 
 ---
