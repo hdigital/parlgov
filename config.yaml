@@ -1,6 +1,6 @@
 baseurl: /
 languageCode: en-us
-title: ParlGov website
+title: ParlGov project
 theme: hugo-lithium
 googleAnalytics: ""
 ignoreFiles:
