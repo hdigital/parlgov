@@ -6,8 +6,15 @@
     <description>Recent content in Posts on ParlGov project</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Source code new dynamic site</title>
+      <link>/2024/09/30/source-code-new-dynamic-site/</link>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/2024/09/30/source-code-new-dynamic-site/</guid>
+      <description>&lt;p&gt;We released the open-source code for the new minimal version of the ParlGov site&#xA;— see &lt;a href=&#34;/2024/08/24/new-parlgov-site-completed/&#34;&gt;post 24/08/2024&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/hdigital/parlgov-web&#34;&gt;github.com/hdigital/parlgov-web&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;The dynamic website is based on&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;an &lt;a href=&#34;https://www.sqlite.org/&#34;&gt;SQLite&lt;/a&gt; database migrated from&#xA;&lt;a href=&#34;https://dataverse.harvard.edu/file.xhtml?fileId=10437084&amp;amp;version=1.0&#34;&gt;parlgov-experimental.db&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;a dynamic website with the &lt;a href=&#34;https://djangoproject.com&#34;&gt;Django&lt;/a&gt; web framework (backend)&#xA;and the &lt;a href=&#34;https://getbootstrap.com/docs/5.3&#34;&gt;Bootstrap&lt;/a&gt; frontend framework&lt;/li&gt;&#xA;&lt;li&gt;an API with &lt;a href=&#34;https://www.django-rest-framework.org/&#34;&gt;Django REST framework&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;documentation with &lt;a href=&#34;https://www.mkdocs.org/&#34;&gt;MKDocs&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;testing with &lt;a href=&#34;https://docs.pytest.org/&#34;&gt;pytest&lt;/a&gt; (about 100% coverage)&lt;/li&gt;&#xA;&lt;li&gt;code linting and formatting with &lt;a href=&#34;https://docs.astral.sh/ruff/&#34;&gt;Ruff&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;CI/CD with &lt;a href=&#34;https://github.com/features/actions&#34;&gt;GitHub Actions&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;a cloud development environment with &lt;a href=&#34;https://github.com/features/codespaces&#34;&gt;GitHub Codespaces&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;a reproducible environment with &lt;a href=&#34;https://docs.docker.com/&#34;&gt;Docker&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;a migration of database tables with &lt;a href=&#34;https://tidyverse.org/&#34;&gt;Tidyverse-R&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;No further additions are planned, but the app will continue to receive security updates (through &lt;a href=&#34;https://github.com/dependabot&#34;&gt;Dependabot&lt;/a&gt;).&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Snippet · potential coalitions</title>
       <link>/2024/09/28/snippet-potential-coalitions/</link>
