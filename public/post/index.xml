@@ -6,8 +6,15 @@
     <description>Recent content in Posts on ParlGov project</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Retiring from ParlGov</title>
+      <link>/2024/10/01/retiring-from-parlgov/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/2024/10/01/retiring-from-parlgov/</guid>
+      <description>&lt;p&gt;Today, I (Holger) retire from ParlGov.&lt;/p&gt;&#xA;&lt;p&gt;It has been a project that I have worked on for almost two decades. I found the&#xA;first mention of the project name in a file from 2006 and a first version of the&#xA;Django app from 2007. All changes since mid-2009 are documented in news entries,&#xA;among them new major versions of the site in&#xA;&lt;a href=&#34;/2010/02/25/parlgov-10/02-online/&#34;&gt;2010&lt;/a&gt; and&#xA;&lt;a href=&#34;/2014/12/21/new-webpage-at-www.parlgov.org/&#34;&gt;2014&lt;/a&gt;. This year, I completed a&#xA;minimal new version of the &lt;a href=&#34;https://parlgov.fly.dev/&#34;&gt;site&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Source code new dynamic site</title>
       <link>/2024/09/30/source-code-new-dynamic-site/</link>
