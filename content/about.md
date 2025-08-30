@@ -25,7 +25,7 @@ results), and 1600 cabinets (4000 parties) from 1900 to 2023.
   [10.1177/1465116512461189](https://doi.org/10.1177/1465116512461189)
 - Döring, Holger. 2016. “Mapping Established Democracies: Integrated Data on
   Parties, Elections and Cabinets.” Electoral Studies 44: 535–43. — DOI:
-  [10.1016/j.electstud.2016.07.002](https://doi.org/doi:10.1016/j.electstud.2016.07.002)
+  [10.1016/j.electstud.2016.07.002](https://doi.org/10.1016/j.electstud.2016.07.002)
 - Döring, Holger. 2024. “ParlGov Source Code: A Web Application for
   Managing Data on Parties, Elections, and Cabinets.” Zenodo. — DOI:
   [10.5281/zenodo.14357360](https://doi.org/10.5281/zenodo.14357360)
