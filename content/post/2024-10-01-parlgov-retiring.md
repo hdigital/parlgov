@@ -40,9 +40,10 @@ If feasible, I put some of this information into a public data archive with
 (very) restricted access. Again, all important data from the project is in
 'parlgov-experimental.db'.
 
-I am about to complete a working paper that introduces the new ParlGov site and
-provides my perspective on this type of data infrastructure in political science
-research based on my experience through the project.
+I am about to complete a [working paper](https://doi.org/10.26092/elib/4362)
+that introduces the new ParlGov site and provides my perspective on this type
+of data infrastructure in political science research based on my experience
+through the project.
 
 With ParlGov, we have received wide recognition and many citations. Many
 scholars provided inspiration or pointed out errors. Thanks. We were less

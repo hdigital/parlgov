@@ -25,7 +25,7 @@ The dynamic website is based on
 
 No further additions are planned, but the app will continue to receive security updates (through [Dependabot](https://github.com/dependabot)).
 
-A working paper introducing the new version will be published later this year.
+A [working paper](https://doi.org/10.26092/elib/4362) introducing the new version will be published later this year.
 
 ---
 
