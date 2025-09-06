@@ -17,15 +17,21 @@ results), and 1600 cabinets (4000 parties) from 1900 to 2023.
 ## References
 
 - Döring, Holger, and Philip Manow. 2024. “Parliaments and Governments Database
-  (ParlGov): Release 2024.” Harvard Dataverse, V1. —
-  [doi:10.7910/DVN/2VZ5ZC](https://doi.org/10.7910/DVN/2VZ5ZC)
-- Döring, Holger. 2016. “Mapping Established Democracies: Integrated Data on
-  Parties, Elections and Cabinets.” Electoral Studies 44: 535–43. —
-  [doi:10.1016/j.electstud.2016.07.002](https://doi.org/doi:10.1016/j.electstud.2016.07.002)
+  (ParlGov): Release 2024.” Harvard Dataverse, V1. — DOI:
+  [10.7910/dvn/2vz5zc](https://doi.org/10.7910/dvn/2vz5zc)
 - Döring, Holger. 2013. “The Collective Action of Data Collection: A Data
   Infrastructure on Parties, Elections and Cabinets.” European Union Politics
-  14(1): 161–78. —
-  [doi:10.1177/1465116512461189](https://doi.org/10.1177/1465116512461189)
+  14(1): 161–78. — DOI:
+  [10.1177/1465116512461189](https://doi.org/10.1177/1465116512461189)
+- Döring, Holger. 2016. “Mapping Established Democracies: Integrated Data on
+  Parties, Elections and Cabinets.” Electoral Studies 44: 535–43. — DOI:
+  [10.1016/j.electstud.2016.07.002](https://doi.org/10.1016/j.electstud.2016.07.002)
+- Döring, Holger. 2024. “ParlGov Source Code: A Web Application for
+  Managing Data on Parties, Elections, and Cabinets.” Zenodo. — DOI:
+  [10.5281/zenodo.14357360](https://doi.org/10.5281/zenodo.14357360)
+- Döring, Holger. 2025. “Advancing Data Infrastructures on Democratic Representation:
+  An Open-Source Version of ParlGov.” SOCIUM SFB 1342 Working Papers. — DOI:
+  [10.26092/elib/4362](https://doi.org/10.26092/elib/4362)
 
 ## Credits
 
