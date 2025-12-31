@@ -62,7 +62,7 @@
       <link>/2024/08/09/twitter-account-retired/</link>
       <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
       <guid>/2024/08/09/twitter-account-retired/</guid>
-      <description>&lt;p&gt;We retired the ParlGov Twitter/X account today. We have not been very active on the platform over the last years.&lt;/p&gt;&#xA;&lt;p&gt;In addition, Twitter has changed significanty since it turned into X and does not provide a free API access anymore.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/parliament-netherlands.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;We retired the ParlGov Twitter/X account today. We have not been very active on the platform over the last years.&lt;/p&gt;&#xA;&lt;p&gt;In addition, Twitter has changed significantly since it turned into X and does not provide a free API access anymore.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/parliament-netherlands.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Development version 07/23</title>
@@ -832,7 +832,7 @@
       <link>/2017/06/16/biyearly-stable-releases/</link>
       <pubDate>Fri, 16 Jun 2017 00:00:00 +0000</pubDate>
       <guid>/2017/06/16/biyearly-stable-releases/</guid>
-      <description>&lt;p&gt;We decided to move to a biyearly relase of the stable version. ParlGov is a stable project by now. We mainly include updates for recent elections and new cabinets as well as minor bug fixes. Currently, we are not planning any major additions to the projects.&lt;/p&gt;&#xA;&lt;p&gt;Please make use of the &lt;a href=&#34;http://www.parlgov.org/#data&#34;&gt;development version&lt;/a&gt; if you need recent elections. We aim to include new information within three months. Updates are announced in the &lt;a href=&#34;http://www.parlgov.org/documentation/news/&#34;&gt;news section&lt;/a&gt; and bug fixes in the &lt;a href=&#34;http://www.parlgov.org/documentation/changelog/&#34;&gt;changelog&lt;/a&gt;.&lt;/p&gt;</description>
+      <description>&lt;p&gt;We decided to move to a biyearly release of the stable version. ParlGov is a stable project by now. We mainly include updates for recent elections and new cabinets as well as minor bug fixes. Currently, we are not planning any major additions to the projects.&lt;/p&gt;&#xA;&lt;p&gt;Please make use of the &lt;a href=&#34;http://www.parlgov.org/#data&#34;&gt;development version&lt;/a&gt; if you need recent elections. We aim to include new information within three months. Updates are announced in the &lt;a href=&#34;http://www.parlgov.org/documentation/news/&#34;&gt;news section&lt;/a&gt; and bug fixes in the &lt;a href=&#34;http://www.parlgov.org/documentation/changelog/&#34;&gt;changelog&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>ParlGov and data journalism</title>
@@ -846,7 +846,7 @@
       <link>/2017/03/16/dutch-election-analysis/</link>
       <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
       <guid>/2017/03/16/dutch-election-analysis/</guid>
-      <description>&lt;p&gt;Two facts were striking in yesterdays election in the Netherlands.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The Social Democracts (PVdA) fell from 24.8% in 2012 to 5.7% vote share.&lt;/li&gt;&#xA;&lt;li&gt;The largest party (Liberals, VVD) won only 21.3% vote share.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;A &lt;a href=&#34;http://holgerdoering.net/documents/nld-election-2017.html&#34;&gt;ParlGov analysis in R&lt;/a&gt; presents a broader picture. It does also demonstrate how the R &lt;a href=&#34;http://tidyverse.org/&#34;&gt;tidyverse&lt;/a&gt; and &lt;a href=&#34;https://yihui.name/knitr/&#34;&gt;knitr&lt;/a&gt; make analysing ParlGov data more easy.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/parliament-netherlands.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Two facts were striking in yesterdays election in the Netherlands.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The Social Democrats (PVdA) fell from 24.8% in 2012 to 5.7% vote share.&lt;/li&gt;&#xA;&lt;li&gt;The largest party (Liberals, VVD) won only 21.3% vote share.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;A &lt;a href=&#34;http://holgerdoering.net/documents/nld-election-2017.html&#34;&gt;ParlGov analysis in R&lt;/a&gt; presents a broader picture. It does also demonstrate how the R &lt;a href=&#34;http://tidyverse.org/&#34;&gt;tidyverse&lt;/a&gt; and &lt;a href=&#34;https://yihui.name/knitr/&#34;&gt;knitr&lt;/a&gt; make analysing ParlGov data more easy.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/parliament-netherlands.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bulgaria interim cabinet added</title>
@@ -1749,7 +1749,7 @@
       <link>/2012/10/07/party-composition-of-eu-institutions/</link>
       <pubDate>Sun, 07 Oct 2012 00:00:00 +0000</pubDate>
       <guid>/2012/10/07/party-composition-of-eu-institutions/</guid>
-      <description>&lt;p&gt;In the &lt;a href=&#34;http://dev.parlgov.org/download/&#34;&gt;download&lt;/a&gt; section we have added an application of&#xA;ParlGov for students of the EU. The file contains scripts to create data about the party composition of the EU with information from the ParlGov project. All scripts are written in the R programing language. In addition, the European political space since 1958 is visualized including all changes in party composition. For the project, we also reintegrated &lt;a href=&#34;http://dev.parlgov.org/documentation/table/external_commissioner_doering/&#34;&gt;data&lt;/a&gt; on the compositon of the College of Commissioners and present it in the data section (eg. &lt;a href=&#34;http://dev.parlgov.org/data/deu/external_commission/&#34;&gt;Germany&lt;/a&gt;).&lt;/p&gt;</description>
+      <description>&lt;p&gt;In the &lt;a href=&#34;http://dev.parlgov.org/download/&#34;&gt;download&lt;/a&gt; section we have added an application of&#xA;ParlGov for students of the EU. The file contains scripts to create data about the party composition of the EU with information from the ParlGov project. All scripts are written in the R programing language. In addition, the European political space since 1958 is visualized including all changes in party composition. For the project, we also reintegrated &lt;a href=&#34;http://dev.parlgov.org/documentation/table/external_commissioner_doering/&#34;&gt;data&lt;/a&gt; on the composition of the College of Commissioners and present it in the data section (eg. &lt;a href=&#34;http://dev.parlgov.org/data/deu/external_commission/&#34;&gt;Germany&lt;/a&gt;).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Australia with votes level data</title>
@@ -1770,7 +1770,7 @@
       <link>/2012/09/05/new-zealand-with-votes-level-data/</link>
       <pubDate>Wed, 05 Sep 2012 00:00:00 +0000</pubDate>
       <guid>/2012/09/05/new-zealand-with-votes-level-data/</guid>
-      <description>&lt;p&gt;We have updated and checked all &lt;a href=&#34;http://dev.parlgov.org/data/nzl/election-parliament/&#34;&gt;election results&lt;/a&gt; from 1943 for New Zealand and coded all parties according to our new coding rule. We include all parties with more than 1.0% vote share, that won seats in parliament or the largest party winning no seats in an election. For most of our informations we used the &lt;a href=&#34;http://www.stats.govt.nz/&#34;&gt;Official Yearbooks&lt;/a&gt; or the results of the &lt;a href=&#34;http://www.elections.org.nz/&#34;&gt;Electoral Commission&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/parliament-germany.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;We have updated and checked all &lt;a href=&#34;http://dev.parlgov.org/data/nzl/election-parliament/&#34;&gt;election results&lt;/a&gt; from 1943 for New Zealand and coded all parties according to our new coding rule. We include all parties with more than 1.0% vote share, that won seats in parliament or the largest party winning no seats in an election. For most of our information we used the &lt;a href=&#34;http://www.stats.govt.nz/&#34;&gt;Official Yearbooks&lt;/a&gt; or the results of the &lt;a href=&#34;http://www.elections.org.nz/&#34;&gt;Electoral Commission&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/parliament-germany.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Greece elections and cabinets added</title>
@@ -2099,7 +2099,7 @@
       <link>/2010/11/10/beta-version-parlgov-10/11-online/</link>
       <pubDate>Wed, 10 Nov 2010 00:00:00 +0000</pubDate>
       <guid>/2010/11/10/beta-version-parlgov-10/11-online/</guid>
-      <description>&lt;p&gt;A &lt;a href=&#34;http://www.parlgov.org/beta&#34;&gt;beta version&lt;/a&gt; of the next stable relase, ParlGov 10/11 – Autumn 2010, is now available online. We will test and may update it over the next days and plan to relase the next stable version at the beginning of next week.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/parliament-sweden.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;A &lt;a href=&#34;http://www.parlgov.org/beta&#34;&gt;beta version&lt;/a&gt; of the next stable release, ParlGov 10/11 – Autumn 2010, is now available online. We will test and may update it over the next days and plan to release the next stable version at the beginning of next week.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/parliament-sweden.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>New web design and refactored database launched</title>
@@ -2302,7 +2302,7 @@
       <link>/2010/03/14/dutch-caretaker-government-and-defector-parties-added/</link>
       <pubDate>Sun, 14 Mar 2010 00:00:00 +0000</pubDate>
       <guid>/2010/03/14/dutch-caretaker-government-and-defector-parties-added/</guid>
-      <description>&lt;p&gt;We coded the fall of the Balkenende IV goverment and the succeeding demissionary cabinet due to the change in party composition. In addition, we also went through all previous Dutch cabinets, added links to their Wikipedia entries and coded defector parties.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/parliament-sweden.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;We coded the fall of the Balkenende IV government and the succeeding demissionary cabinet due to the change in party composition. In addition, we also went through all previous Dutch cabinets, added links to their Wikipedia entries and coded defector parties.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/parliament-sweden.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>UK with votes level data</title>
@@ -2400,7 +2400,7 @@
       <link>/2009/11/08/ray-party-expert-survey-ids-added/</link>
       <pubDate>Sun, 08 Nov 2009 00:00:00 +0000</pubDate>
       <guid>/2009/11/08/ray-party-expert-survey-ids-added/</guid>
-      <description>&lt;p&gt;Updating ParlGov&amp;rsquo;s party table to the most recent &lt;a href=&#34;http://www.unc.edu/~gwmarks/data_pp.php&#34;&gt;CHESS data&lt;/a&gt; required to include the party IDs from the &lt;a href=&#34;http://www.lsu.edu/faculty/lray2/data/1996survey/codebook.html&#34;&gt;Ray expert survey&lt;/a&gt; separately. We have now finished linking all party IDs from the Ray data set. Most of the IDs from CHESS and Ray&amp;rsquo;s data are indentical but be aware that some of them are different.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/parliament-sweden.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Updating ParlGov&amp;rsquo;s party table to the most recent &lt;a href=&#34;http://www.unc.edu/~gwmarks/data_pp.php&#34;&gt;CHESS data&lt;/a&gt; required to include the party IDs from the &lt;a href=&#34;http://www.lsu.edu/faculty/lray2/data/1996survey/codebook.html&#34;&gt;Ray expert survey&lt;/a&gt; separately. We have now finished linking all party IDs from the Ray data set. Most of the IDs from CHESS and Ray&amp;rsquo;s data are identical but be aware that some of them are different.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/parliament-sweden.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Japanese election and government added</title>
@@ -2428,14 +2428,14 @@
       <link>/2009/10/28/german-cabinet-added/</link>
       <pubDate>Wed, 28 Oct 2009 00:00:00 +0000</pubDate>
       <guid>/2009/10/28/german-cabinet-added/</guid>
-      <description>&lt;p&gt;ParlGov was started at the MPIfG in Colgone in Germany in 2005 and is the home country of the project leaders. Hence, this is the country were we have most expertise and that we keep updated as a reference country for the coding. Therefore, we have added the new cabinet just at the day when Angela Merkel was re-elected as chancellor in the German Bundestag. To better understand the fine grained coding that we have already included into ParlGov for Germany, have a look at the election results for 1969 and see the coding of changes in the party composition of the Bundestag.&lt;/p&gt;</description>
+      <description>&lt;p&gt;ParlGov was started at the MPIfG in Cologne in Germany in 2005 and is the home country of the project leaders. Hence, this is the country were we have most expertise and that we keep updated as a reference country for the coding. Therefore, we have added the new cabinet just at the day when Angela Merkel was re-elected as chancellor in the German Bundestag. To better understand the fine grained coding that we have already included into ParlGov for Germany, have a look at the election results for 1969 and see the coding of changes in the party composition of the Bundestag.&lt;/p&gt;</description>
     </item>
     <item>
       <title>CHES data added</title>
       <link>/2009/10/25/ches-data-added/</link>
       <pubDate>Sun, 25 Oct 2009 00:00:00 +0000</pubDate>
       <guid>/2009/10/25/ches-data-added/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://chesdata.eu/&#34;&gt;Chapel Hill Expert Survey Series (CHES)&lt;/a&gt; data added to ParlGov. Due to the new structure of the CHES data, there is now a seperate link to the &lt;a href=&#34;http://www.lsu.edu/faculty/lray2/data/data.html&#34;&gt;Ray data set&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/parliament-germany.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://chesdata.eu/&#34;&gt;Chapel Hill Expert Survey Series (CHES)&lt;/a&gt; data added to ParlGov. Due to the new structure of the CHES data, there is now a separate link to the &lt;a href=&#34;http://www.lsu.edu/faculty/lray2/data/data.html&#34;&gt;Ray data set&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/parliament-germany.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>German election results added</title>
