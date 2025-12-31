@@ -1,0 +1,9 @@
+[files]
+# Ignore data files and generated content
+extend-exclude = ["static/data/**", "public/**"]
+
+[default.extend-words]
+# Proper names and acronyms that are correct
+CLEA = "CLEA"       # Project acronym
+IHS = "IHS"         # Institute for Advanced Studies
+Ofer = "Ofer"       # Person's name
